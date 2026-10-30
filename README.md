@@ -53,8 +53,9 @@ Mdir For Windows 4.5.591 Beta를 참고하여 2026년에 맞게 재작성한 프
 ## 🤖 AI가 파일을 정리합니다
 
 - **AI 파일 정리** (툴바 「AI」, `Ctrl+Shift+I`): 「사진은 찍은 해별로」처럼 적으면 AI가 새 폴더·옮기기·이름 바꾸기 계획을 냅니다. 줄마다 확인한 것만 실행하고, 지우는 일은 없으며, `Ctrl+Z`로 되돌립니다.
-- **AI 연결** (도움말 › AI 연결): Claude·OpenAI·xAI API 키를 넣거나, **Claude·ChatGPT 구독 계정으로 로그인**해서 씁니다. 로그인 상태도 그 창에서 확인합니다.
-- Claude Code·Codex 같은 AI가 HD M AI를 직접 다루게 할 수도 있습니다(함께 들어 있는 `hdm-ai.exe`, MCP 서버).
+- **AI 연결** (도구 › AI 연결): Claude·OpenAI·xAI API 키를 넣거나, **Claude·ChatGPT 구독 계정으로 로그인**해서 씁니다. 모델은 목록에서 고르고(Claude haiku·sonnet·opus·fable, OpenAI luna·terra·sol·astra, xAI grok), 쓸 때마다 그 계열의 가장 새 모델이 쓰입니다.
+- **작업 기록**: AI가 일하는 동안 창 아래 흰 칸에 지금 하는 일이 실시간으로 나옵니다.
+- Claude Code·Codex 같은 AI가 HD M AI를 직접 다루게 할 수도 있습니다(함께 들어 있는 `hdm-ai.exe`, MCP 서버). 폴더 이동·찾기·미리 읽기에 더해 복사·이동·삭제(휴지통)까지 하고, 모두 `Ctrl+Z`로 되돌립니다.
 
 ## 이번에 새로 넣은 것들
 
